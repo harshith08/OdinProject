@@ -1,0 +1,54 @@
+* {
+    text-decoration: none;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+.main-menu a{
+    color:grey;
+    /* margin-right: 10px;
+    padding: 10px; */
+    display: inline-block;
+    text-align: left;
+}
+
+.heading {
+    /* text-align: left; */
+    color:rgb(5, 31, 5);
+    font-family:Bradley Hand, cursive;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.navbar{
+    /* text-align: right; */
+}
+
+span.navbar{
+   /* margin-top:-23px;  */
+}
+
+a:hover{
+    color:rgb(17, 17, 17);
+}
+
+.dish a{
+    font-weight: 600;
+    color:rgb(17, 17, 17);
+    mar
+}
+
+.dish a:hover{
+    color:rgb(206, 36, 65);
+    /* padding: 10px;
+    border: 10px;
+    border-color: black; */
+}
+
+.button-wrap{
+    mask-image: url(https://developer.mozilla.org/static/media/search.cebfd63a204ba9fefa74.svg);
+    background-color: gray;
+    display: inline-block;
+    mask-repeat: no-repeat;
+    vertical-align: middle;
+    color: blue;
+}
